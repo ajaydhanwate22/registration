@@ -1,0 +1,20 @@
+.dashboard {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.widget {
+    width: 30%;
+    margin-bottom: 20px;
+    padding: 20px;
+    /* background-color: #f1f1f1; */
+    /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
+}
+
+.widget img {
+    height: 220px;
+    width: 400px;
+}
+
+
